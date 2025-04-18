@@ -1,10 +1,11 @@
+## [CyborgAI](https://cyborgai.fly.dev)
+
+<img src="https://avatars.githubusercontent.com/u/129898917?v=4" alt="cyborgai" width="256" height="256">
+
 <p align="center">
   <img src="./dilithium.png"/>
 </p>
 
-## [CyborgAI](https://cyborgai.fly.dev)
-
-<img src="https://avatars.githubusercontent.com/u/129898917?v=4" alt="cyborgai" width="256" height="256">
 
 # Dilithium
 
