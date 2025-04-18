@@ -11,10 +11,12 @@ mod randombytes;
 mod reduce;
 mod rounding;
 mod sign;
+pub use sign::*;
 mod symmetric;
 pub use params::*;
 
 pub use api::*;
+
 
 #[cfg(feature = "wasm")]
 mod wasm;

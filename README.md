@@ -2,8 +2,14 @@
   <img src="./dilithium.png"/>
 </p>
 
+## [CyborgAI](https://cyborgai.fly.dev)
+
+<img src="https://avatars.githubusercontent.com/u/129898917?v=4" alt="cyborgai" width="256" height="256">
 
 # Dilithium
+
+https://github.com/Argyle-Software/dilithium
+
 [![Build Status](https://github.com/Argyle-Software/dilithium/actions/workflows/kat.yml/badge.svg)](https://github.com/Argyle-Software/dilithium/actions)
 [![Crates](https://img.shields.io/crates/v/pqc-dilithium)](https://crates.io/crates/pqc-dilithium)
 [![License](https://img.shields.io/crates/l/pqc_dilithium)](https://github.com/Argyle-Software/dilithium/blob/master/LICENSE-MIT)
