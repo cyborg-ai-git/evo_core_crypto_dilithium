@@ -1,6 +1,6 @@
 [package]
 name = "evo_core_crypto_dilithium"
-version = "0.2.0"
+version = "2025.4.181800"
 authors = ["Mitchell Berry <foss@mitchellberry.com>"]
 description = "A post-quantum cryptographic signature scheme based on the hardness of lattice problems over module lattices, evo_core_crypto version"
 edition = "2018"
