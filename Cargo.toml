@@ -3,7 +3,7 @@
 #=======================================================================================================================
 [package]
 name = "evo_core_crypto_dilithium"
-version = "2025.4.181801"
+version = "2025.9.91831"
 authors = ["Mitchell Berry <foss@mitchellberry.com>"]
 description = "A post-quantum cryptographic signature, evo_core_crypto version"
 edition = "2018"
